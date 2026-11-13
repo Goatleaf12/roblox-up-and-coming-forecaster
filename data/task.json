@@ -1,0 +1,19 @@
+{
+  "schema": "makefun/roblox-up-and-coming-forecast/task/v1",
+  "competition": "roblox-up-and-coming-forecast-01",
+  "history_until": "2026-11-07T23:00:00.000Z",
+  "window": {
+    "from": "2026-11-07T23:00:00.000Z",
+    "until": "2026-11-10T23:00:00.000Z",
+    "slot_minutes": 60,
+    "slots": 72
+  },
+  "places": 10,
+  "chart": {
+    "sort_id": "up-and-coming",
+    "device": "computer",
+    "country": "us"
+  },
+  "output": "forecast.json",
+  "snapshots": 34
+}
